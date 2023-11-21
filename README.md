@@ -28,12 +28,17 @@ Video 1 - original
 Video 1 - resultado
 
 ![video1-r](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/18dfd6df-69c3-4890-a614-b057c1e719d7)
+
 Se puede apreciar que a pesar de la baja calidad de video, se detecta correctamente a cada una de las personas gracias al entrenamiento previo realizado
 
 
+
 Video 2 - original
+
 ![video2](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/c3f62703-4a6a-47e6-bebf-235e2cee7b6f)
 
 Video 2 - resultado
+
 ![video2-r](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/71751b75-8284-4b07-9ccf-453c73fa093b)
+
 En este segundo video se puede apreciar que también funciona adecuadamente la detección de las personas. Además, el “out” lleva el valor de 1, lo cual es el contador que aumenta cuando una persona cruza la línea horizontal a la dirección a la que se dirige. En este caso, se contó a la chica que caminaba hacia la dirección de abajo.
