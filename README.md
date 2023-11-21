@@ -33,6 +33,7 @@ Se puede apreciar que a pesar de la baja calidad de video, se detecta correctame
 
 
 
+
 Video 2 - original
 
 ![video2](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/c3f62703-4a6a-47e6-bebf-235e2cee7b6f)
