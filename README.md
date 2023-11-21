@@ -22,9 +22,11 @@ En esta oportunidad decidí implementar Ultralytics YOLOv8, el cual es la últim
 ## Resultados
 
 Video 1 - original
+
 ![video1](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/82a72d61-8ff0-4295-9d7c-aa448d618c97)
 
 Video 1 - resultado
+
 ![video1-r](https://github.com/Shark7EnzoCamargo/TF-Imagenes/assets/89089765/18dfd6df-69c3-4890-a614-b057c1e719d7)
 Se puede apreciar que a pesar de la baja calidad de video, se detecta correctamente a cada una de las personas gracias al entrenamiento previo realizado
 
